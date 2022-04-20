@@ -13,3 +13,5 @@ sch: https://www.youtube.com/c/TheDrivewayEngineer/search?query=OM617
 [OM617 swap impressions and highway cruising (2 lane)](https://youtu.be/g89t5XhRdpI)
 
 [Ready for another 1 million miles? Toyota OM617 turbodiesel rebuild, new cylinders](https://youtu.be/E9Ts6Z6VqdE)
+
+[Cold starts suck! Here's mine 😂. OM617 Toyota 4runner.](https://youtu.be/c01n8Ji1huQ)
