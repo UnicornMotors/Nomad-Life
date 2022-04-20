@@ -1,4 +1,5 @@
 sch: https://www.youtube.com/results?search_query=OM617
+wiki: https://en.wikipedia.org/wiki/Mercedes-Benz_OM617_engine
 
 # Video
 [W123 OM617 Double The Power](https://youtu.be/tfvzwWP0WXE)
