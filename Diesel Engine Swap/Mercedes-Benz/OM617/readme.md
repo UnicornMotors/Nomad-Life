@@ -5,7 +5,9 @@ wiki: https://en.wikipedia.org/wiki/Mercedes-Benz_OM617_engine
 [W123 OM617 Double The Power](https://youtu.be/tfvzwWP0WXE)
 
 ## Toyota 4Runner, by: The Driveway Engineer
-channel: https://www.facebook.com/groups/887277178144274/
+channel: https://www.youtube.com/channel/UCOOxs8eWBHbih7Hxv-NmOQA
+
+group: https://www.facebook.com/groups/887277178144274/
 
 sch: https://www.youtube.com/c/TheDrivewayEngineer/search?query=OM617
 
