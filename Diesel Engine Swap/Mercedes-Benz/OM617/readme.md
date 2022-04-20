@@ -5,3 +5,5 @@ sch: https://www.youtube.com/results?search_query=OM617
 
 ## Toyota 4Runner
 [OM617 swapped Toyota 4runner HE221 7.5mm Pump Acceleration tests](https://youtu.be/XedW8G9hDrk)
+
+[First Gen 4runner project reveal! From DOA to runner while on the trailer!](https://youtu.be/YB5YmP8C8lk)
