@@ -5,7 +5,11 @@ wiki: https://en.wikipedia.org/wiki/Mercedes-Benz_OM617_engine
 [W123 OM617 Double The Power](https://youtu.be/tfvzwWP0WXE)
 
 ## Toyota 4Runner, by: The Driveway Engineer
+channel: https://www.facebook.com/groups/887277178144274/
+
 sch: https://www.youtube.com/c/TheDrivewayEngineer/search?query=OM617
+
+[OM617 Diesel Purge liquid moly run](https://youtu.be/DMb0urJ6XSQ)
 
 [OM617 swapped Toyota 4runner HE221 7.5mm Pump Acceleration tests](https://youtu.be/XedW8G9hDrk)
 
