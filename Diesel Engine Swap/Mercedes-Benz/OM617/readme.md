@@ -22,3 +22,5 @@ sch: https://www.youtube.com/c/TheDrivewayEngineer/search?query=OM617
 [Ready for another 1 million miles? Toyota OM617 turbodiesel rebuild, new cylinders](https://youtu.be/E9Ts6Z6VqdE)
 
 [Cold starts suck! Here's mine 😂. OM617 Toyota 4runner.](https://youtu.be/c01n8Ji1huQ)
+
+[Building up the OM617 for my Diesel Jeep TJ (Pt. 2)](https://youtu.be/eRwlp4w28Jo)
